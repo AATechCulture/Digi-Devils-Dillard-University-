@@ -53,8 +53,4 @@ improving the travel experience for both passengers and airline staff.
 - [ ] Video pitch recorded and linked
 - [ ] Code merged to main branch
 
-### Sample Checklist for Syntax Example 
-- [ ] Presentation complete and linked
-- [ ] Video pitch recorded and linked
-- [ ] Code merged to main branch
 
