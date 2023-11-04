@@ -22,7 +22,7 @@ improving the travel experience for both passengers and airline staff.
 
 
 ### Contributors
-+ Malik: Back end Developer
-+ Eric: Full stack Developer
-+ Landon: Front end Developer
-+ Jaden: Full stack Developer 
++ Malik: Back end Developer (J33AD72)
++ Eric: Full stack Developer (
++ Landon: Front end Developer (
++ Jaden: Full stack Developer (
