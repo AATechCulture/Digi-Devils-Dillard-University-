@@ -48,7 +48,7 @@ improving the travel experience for both passengers and airline staff.
 - [x] Team Slack channel
 - [x] Communication established with mentor
 - [x] Repo creation from this template
-- [ ] Hangar registration
+- [x] Hangar registration
 - [ ] Scavenger Hunt submission
 
 ### Project Checklist due before 10a Sunday 11/5 🏁
