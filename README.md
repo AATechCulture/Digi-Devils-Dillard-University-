@@ -22,6 +22,9 @@ improving the travel experience for both passengers and airline staff.
 
 ## Tech Overview 🤖
 
+### Documentation
+**https://docs.google.com/document/d/1OMthqRCMHsMdvASzX2P8JGTvbBpoa3pXBeIItEIlGaM/edit?usp=sharing**
+
 ### Contributors 🙋🏾‍♂️
 + Malik: Back end Developer (J33AD72)
 + Eric: Full stack Developer (U4YJ576)
