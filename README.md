@@ -26,3 +26,6 @@ improving the travel experience for both passengers and airline staff.
 + Eric: Full stack Developer (U4YJ576)
 + Landon: Front end Developer (X7AK476)
 + Jaden: Full stack Developer (W21UA70)
+
+### School Name  🏢
+**Dillard University**
