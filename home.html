@@ -5,9 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
 </head>
-<body>
-    <h1>Login Authentication System in Flask.</h1>
-    <a href="{{url_for('login')}}">Login Page</a><br>
-    <a href="{{url_for('register')}}">Register Page</a><br>
+<body style="grid-template-areas: 'h h h h' 'n n n n' 'm c c c' 'f f f f';">
+    <div style="background-color: blue; grid-area: h; padding: 18px;">
+        <h2 style="color: white; text-align: center;">A.I.R. Assistant</h2>
+    </div>
+    <div style="display: block; text-decoration: none; padding: 12px; color: brown; background-color: aliceblue; grid-area: m; margin-top: -15; width: 200px; height: 500px; padding: 0; text-align: center;">
+        <br><a href="{{url_for('login')}}">Login</a><br><br><br>
+        <a href="{{url_for('register')}}">Register</a><br><br><br>
+        <a href="{{url_for('emergency')}}" style="text-align: right; color: red">Emergency</a>
+    </div>
+
+    <div style="overflow: scroll; width: 1500px; height: auto; overflow-x:hidden; overflow: auto;">
+        <p>Embark on a journey of unparalleled safety and convenience with A.I.R. Assist, your trusted companion in the skies. Designed with your comfort and security in mind, our app revolutionizes the way you communicate with our attentive flight attendants.</p>
+        <ul>
+            <li>Swiftly alert our flight attendants in case of emergencies, allowing us to respond promptly to your needs.</li>
+            <li>Tailor your notifications based on specific requirements, from dietary preferences to special requests, ensuring personalized and efficient service.</li>
+            <li>Break language barriers with our multilingual support, enabling effortless communication regardless of your native language.</li>
+        </ul>
+        <p>Trust A.I.R. Assist to transform your in-flight experience. Your safety, comfort, and peace of mind are our commitment. Bon voyage!</p>
+        <p>Having technical issues? Contact us at airassist@gmail.com</p>
+            </div>
 </body>
 </html>
