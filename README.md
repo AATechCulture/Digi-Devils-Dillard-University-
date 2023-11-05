@@ -41,8 +41,8 @@ improving the travel experience for both passengers and airline staff.
 **...point us to where you tell us about your solution 😄**
 
 ### Link to Demo Presentation 📽
-**https://dillard0-my.sharepoint.com/:p:/g/personal/eric_wilkinson-hickson_dillard_edu/EU0TBwF5ZdtOpEeaJ0aFdjkBP4EOPIQdahtDZa1LJYu1MQ?e=0v3f5c**
-**https://dillard0-my.sharepoint.com/:p:/g/personal/eric_wilkinson-hickson_dillard_edu/Ef6BFy9Hv_BKrvrJm7_IG00BhM6kx3gmvs-QGULhv7nYcg?e=qbLLqc**
++**https://dillard0-my.sharepoint.com/:p:/g/personal/eric_wilkinson-hickson_dillard_edu/EU0TBwF5ZdtOpEeaJ0aFdjkBP4EOPIQdahtDZa1LJYu1MQ?e=0v3f5c**
++**https://dillard0-my.sharepoint.com/:p:/g/personal/eric_wilkinson-hickson_dillard_edu/Ef6BFy9Hv_BKrvrJm7_IG00BhM6kx3gmvs-QGULhv7nYcg?e=qbLLqc**
 
 ### Team Checklist due before 5p Saturday 11/4 ✅
 - [x] Team photo
