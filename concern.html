@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Concern</title>
+</head>
+<body style="grid-template-areas: 'h h h h' 'm c c c'">
+    <div style="background-color: blue; grid-area: h; padding: 18px;">
+        <h2 style="color: white; text-align: center;">A.I.R. Assistant</h2>
+    </div>
+    <div style="display: block; text-decoration: none; padding: 12px; color: brown; background-color: aliceblue; grid-area: m; margin-top: -15; width: 200px; height: 500px; padding: 0; text-align: center;">
+        <br><a href="{{url_for('home')}}">Home Page</a><br><br><br>
+        <a href="{{url_for('dashboard')}}">Go Back</a><br><br><br>
+        <a href="{{url_for('emergency')}}" style="text-align: right; color: red">Emergency</a>
+
+    </div>
+    <label for="concerns">Select your concern: </label>
+    <select name="Select An Option" id="concerns">
+        <option value="Medical Assistance">Medical Assistance</option>
+        <option value="Special Dietary Requirement">Special Dietary Requirement</option>\
+        <option value="In-Flight Comfort">In-Flight Comfort</option>
+        <option value="Security Concerns">Security Concerns</option>
+        <option value="Special Assistance">Special Assistance</option>
+    </select>
+    <br><br>
+    <textarea rows="4" cols="50">Enter details here...</textarea>
+    <br><br>
+    <a href="{{url_for('concern')}}"><button type="submit">Submit</button></a><br><br>
+    <a href="{{url_for('logout')}}">Press here to logout</a>
+    
+</body>
+</html>

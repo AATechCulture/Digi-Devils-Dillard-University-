@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attendant</title>
+</head>
+<body style="grid-template-areas: 'h h h h' 'n n n n' 'm c c c' 'f f f f';">
+    <div style="background-color: blue; grid-area: h; padding: 18px;">
+        <h2 style="color: white; text-align: center;">A.I.R. Assistant</h2>
+    </div>
+    <div style="display: block; text-decoration: none; padding: 12px; color: brown; background-color: aliceblue; grid-area: m; margin-top: -15; width: 200px; height: 500px; padding: 0; text-align: center;">
+        <br><a href="{{url_for('Dashboard')}}">Dashboard</a><br><br><br>
+        <a href="{{url_for('emergency')}}" style="text-align: right; color: red">Emergency</a>
+    </div>
+    <h1>Your concern has notified the flight crew.</h1><br><br>
+    <h2>A flight attendant will be with you shortly.</h2><br>
+<a href="{{url_for('logout')}}">Press here to logout</a>
+</body>
+</html>

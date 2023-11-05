@@ -1,0 +1,51 @@
+body{margin: 0;}
+.myContainer {display: grid;
+ grid-template-areas: 'h h h h' 'n n n n' 'm c c c' 'f f f f';}
+
+
+#myHeader {grid-area: h; background-color: blue; color: white;
+ padding: 18px 0; text-align: center; font-size: large;}
+
+#myHeader{display: inline;}
+.company{float: left; padding-left: 14px;}
+.search{float: right; padding-right: 14px;}
+.search input{width: 80px; border-radius: 10px; padding: 4px 6px; margin-right: 8px;
+ background-color: solid black; border: 2px solid black;}
+
+#myMenu {grid-area: m; margin-top: -15px;}
+
+#myMenu li a{display: block; text-decoration: none; padding: 12px; color: brown;}
+
+#myMenu li a:hover{background-color: aliceblue; color: purple;}
+
+#myMenu ul{list-style-type: none; background-color: #ccc;
+ padding: 0; text-align: center;width: 200px;
+        height: 900px;}
+
+
+#myContent {grid-area: c; padding: 4px 12px;}
+
+#myContent {overflow:scroll; width: 1500px;
+        height: auto;
+        overflow-x: hidden;
+        overflow-y: auto;}
+
+#myFooter {grid-area: f; background-color: black; color: white;
+ padding: 18px 0; text-align: right; margin-top: -15px;}
+
+
+#myNavBar{grid-area: n; background-color: #563CC1; color: whitesmoke;}
+
+#myNavBar ul{list-style-type: none; background-color: #563CC1; overflow: hidden;
+ margin: 0; padding: 0;}
+
+#myNavBar li{float: left;}
+
+#myNavBar li a{display: block; color: white; text-decoration: none; padding: 12px;}
+
+#myNavBar li a:hover{background-color: aliceblue; color: #563CC1;}
+
+#myNavBar .right{float: right;}
+
+
+h1{color: blue;}
