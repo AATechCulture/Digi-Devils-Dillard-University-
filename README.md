@@ -24,9 +24,6 @@ improving the travel experience for both passengers and airline staff.
 
 ### Documentation
 **https://docs.google.com/document/d/1OMthqRCMHsMdvASzX2P8JGTvbBpoa3pXBeIItEIlGaM/edit?usp=sharing**
-# Powerpoints
-**https://dillard0-my.sharepoint.com/:p:/g/personal/eric_wilkinson-hickson_dillard_edu/EU0TBwF5ZdtOpEeaJ0aFdjkBP4EOPIQdahtDZa1LJYu1MQ?e=0v3f5c**
-**https://dillard0-my.sharepoint.com/:p:/g/personal/eric_wilkinson-hickson_dillard_edu/Ef6BFy9Hv_BKrvrJm7_IG00BhM6kx3gmvs-QGULhv7nYcg?e=qbLLqc**
 
 ### Contributors 🙋🏾‍♂️
 + Malik: Back end Developer (J33AD72)
@@ -44,7 +41,8 @@ improving the travel experience for both passengers and airline staff.
 **...point us to where you tell us about your solution 😄**
 
 ### Link to Demo Presentation 📽
-**...point us to your PPT or Canva slides 😍**
+**https://dillard0-my.sharepoint.com/:p:/g/personal/eric_wilkinson-hickson_dillard_edu/EU0TBwF5ZdtOpEeaJ0aFdjkBP4EOPIQdahtDZa1LJYu1MQ?e=0v3f5c**
+**https://dillard0-my.sharepoint.com/:p:/g/personal/eric_wilkinson-hickson_dillard_edu/Ef6BFy9Hv_BKrvrJm7_IG00BhM6kx3gmvs-QGULhv7nYcg?e=qbLLqc**
 
 ### Team Checklist due before 5p Saturday 11/4 ✅
 - [x] Team photo
@@ -55,7 +53,7 @@ improving the travel experience for both passengers and airline staff.
 - [x] Scavenger Hunt submission
 
 ### Project Checklist due before 10a Sunday 11/5 🏁
-- [ ] Presentation complete and linked
+- [x] Presentation complete and linked
 - [ ] Video pitch recorded and linked
 - [ ] Code merged to main branch
 
