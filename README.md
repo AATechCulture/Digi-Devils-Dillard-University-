@@ -47,7 +47,7 @@ We used live chat to create a chat box with a chat bot and Text Translator on Ra
 **Digi Devils**
 
 ### Link to Video Pitch 📹
-**...point us to where you tell us about your solution 😄**
+****
 
 ### Demo Presentation
 + **https://dillard0-my.sharepoint.com/:p:/g/personal/eric_wilkinson-hickson_dillard_edu/EU0TBwF5ZdtOpEeaJ0aFdjkBP4EOPIQdahtDZa1LJYu1MQ?e=0v3f5c**
