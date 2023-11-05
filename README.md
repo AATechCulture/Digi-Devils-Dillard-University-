@@ -22,7 +22,14 @@ An app that enables passengers to communicate with flight attendants via text wo
 improving the travel experience for both passengers and airline staff.
 
 ## Tech Overview 🤖
+####Front End
+We used CSS and HTML to format the UI interfaces for the Login/Register page, text box, and home page
 
+####Back End
+We used Python to create databases to store and retrieve login information
+
+####API
+We used live chat to create a chat box with a chat bot and libre chat to translate the chat if need so attendants may understand people who speak a different language
 
 ### Documentation
 **https://docs.google.com/document/d/1OMthqRCMHsMdvASzX2P8JGTvbBpoa3pXBeIItEIlGaM/edit?usp=sharing**
@@ -58,6 +65,6 @@ improving the travel experience for both passengers and airline staff.
 ### Project Checklist due before 10a Sunday 11/5 🏁
 - [x] Presentation complete and linked
 - [ ] Video pitch recorded and linked
-- [ ] Code merged to main branch
+- [x] Code merged to main branch
 
 
