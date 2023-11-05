@@ -93,5 +93,17 @@ def setup():
    db.create_all()
    return render_template('home.html')
 
+@app.route('/emergency')
+def emergency():
+    return  render_template('emergency.html')
+
+@app.route('/concern')
+def concern():
+   return render_template('concern.html')
+
+@app.route('/attendant')
+def attendant():
+   return render_template('attendant.html')
+
 if __name__ == '__main__':
     app.run(debug=True)
