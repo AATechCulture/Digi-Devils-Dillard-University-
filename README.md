@@ -1,4 +1,5 @@
 # A.I.R. Assist ✈️
+![image](https://github.com/AATechCulture/Digi-Devils-Dillard-University-/assets/118021478/f5bd5c4e-52cb-4924-853e-0dc3ec21e685)
 
 ## Challenge Statements Addressed 🧐
 - How can we ensure that notifications from passengers reach flight attendants in real-time, regardless
