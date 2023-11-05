@@ -11,7 +11,7 @@ attendants to prioritize and respond efficiently?
 communication experience, enabling continuous improvement and refinement of the application's features and usability?
 
 ## Project Description 🤓
-This app is a dedicated communication platform designed to enhance the interaction between passengers 
+This Attendant.In-flight.Responder app is a dedicated communication platform designed to enhance the interaction between passengers 
 and flight attendants during flights. It enables passengers to swiftly notify flight attendants about 
 emergencies or specific requirements through instant notifications, ensuring quick response and 
 efficient assistance. By bridging the communication gap, the app aims to create a safer and more 
@@ -29,7 +29,7 @@ We used CSS and HTML to format the UI interfaces for the Login/Register page, te
 We used Python to create databases to store and retrieve login information
 
 #### API
-We used live chat to create a chat box with a chat bot and libre chat to translate the chat if need so attendants may understand people who speak a different language
+We used live chat to create a chat box with a chat bot and Text Translator on Rapid API by DEVISTY to translate the chat if need so attendants may understand people who speak a different language
 
 ### Documentation
 **https://docs.google.com/document/d/1OMthqRCMHsMdvASzX2P8JGTvbBpoa3pXBeIItEIlGaM/edit?usp=sharing**
