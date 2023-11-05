@@ -1,20 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
-</head>
-<body>
-    <h1>Login Page</h1>
-
-    <form method="POST" action="">
-        {{ form.hidden_tag() }}
-        {{ form.username }}
-        {{ form.password }}
-        {{ form.submit }}
-    </form>
-    
-    <a href="{{url_for('register')}}">Don't have an account? Sign Up</a><br>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Login</title>
+    </head>
+    <body style="grid-template-areas: 'h h h h' 'n n n n' 'm c c c' 'f f f f';">
+            <div style="background-color: blue; grid-area: h; padding: 18px;">
+                <h2 style="color: white; text-align: center;">A.I.R. Assistant</h2>
+            </div>
+            <div style="display: block; text-decoration: none; padding: 12px; color: brown; background-color: aliceblue; grid-area: m; margin-top: -15; width: 200px; height: 500px; padding: 0; text-align: center;">
+                <br><a href="{{url_for('home')}}">Home</a><br><br><br>
+                <a href="{{url_for('register')}}">Register</a><br><br><br>
+                <a href="{{url_for('emergency')}}" style="text-align: right; color: red">Emergency</a>
+            </div>
+            <h3>Please sign in to continue</h3><br>
+            <form method="POST" action="">
+                {{ form.hidden_tag() }}
+                {{ form.username }}
+                {{ form.password }}
+                {{ form.submit }}
+            </form><br>
+    <a href="{{url_for('register')}}">Don't have an account? Sign Up</a>
 </body>
 </html>
