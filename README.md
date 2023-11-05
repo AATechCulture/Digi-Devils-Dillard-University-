@@ -36,7 +36,7 @@ We used live chat to create a chat box with a chat bot and libre chat to transla
 
 ### Contributors 🙋🏾‍♂️
 + Malik: Back end Developer (J33AD72)
-+ Eric: Full stack Developer (U4YJ576)
++ Eric: Full stack Developer and Manager (U4YJ576)
 + Landon: Front end Developer (X7AK476)
 + Jaden: Full stack Developer (W21UA70)
 
