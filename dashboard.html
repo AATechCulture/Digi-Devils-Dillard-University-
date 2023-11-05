@@ -5,8 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard</title>
 </head>
-<body>
-    <h1>Hello, you are logged in!</h1>
-    <a href="{{url_for('logout')}}">Press here to logout</a>
+<body style="grid-template-areas: 'h h h h' 'n n n n' 'm c c c' 'f f f f';">
+    <div style="background-color: blue; grid-area: h; padding: 18px;">
+        <h2 style="color: white; text-align: center;">A.I.R. Assistant</h2>
+    </div>
+    <div style="display: block; text-decoration: none; padding: 12px; color: brown; background-color: aliceblue; grid-area: m; margin-top: -15; width: 200px; height: 500px; padding: 0; text-align: center;">
+        <br><a href="{{url_for('home')}}">Home</a><br><br><br>
+        <a href="{{url_for('emergency')}}" style="text-align: right; color: red">Emergency</a>
+    </div>
+    <div id="myContent">
+        <h3>Welcome to your A.I.R. Assist dashboard!</h3>
+        <p>Need assistance during your flight? Use our intuitive notification system to alert our attentive flight attendants. Whether it's a special request, medical assistance, or an emergency, we're here to help. Your safety and comfort are our top priorities.</p>
+        <label for="concerns">Select your seating group: </label>
+        <select name="Select An Option" id="seating">
+            <option value="Group 1">Group 1</option>
+            <option value="Group 2">Group 2</option>
+            <option value="Group 3">Group 3</option>
+            <option value="Group 4">Group 4</option>
+        </select>
+        <br><br>
+        <a href="{{url_for('concern')}}"><button type="submit">Submit</button></a><br><br>
+        <a href="{{url_for('logout')}}">Press here to logout</a>
+    </div>
 </body>
 </html>
